@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package>
+  <name>roomba_500_series</name>
+  <version>1.0.0</version>
+  <description>Ported package from Diamondback to Catkin</description>
+
+  <maintainer email="darikcr@gmail.com">Ling</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>rosconsole</build_depend>
+  <build_depend>sensor_msgs</build_depend>
+  <build_depend>geometry_msgs</build_depend>
+  <build_depend>cereal_port</build_depend>
+  <build_depend>tf</build_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>rosconsole</run_depend>
+  <run_depend>sensor_msgs</run_depend>
+  <run_depend>geometry_msgs</run_depend>
+  <run_depend>tf</run_depend>
+  <run_depend>cereal_port</run_depend>
+
+</package>
