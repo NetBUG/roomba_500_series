@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <package>
   <name>roomba_500_series</name>
-  <version>1.0.0</version>
+  <version>2.0.1</version>
   <description>Ported package from Diamondback to Catkin</description>
 
-  <maintainer email="darikcr@gmail.com">Ling</maintainer>
+  <maintainer email="darikcr@gmail.com">Oleg Urzhumtcev</maintainer>
 
   <license>BSD</license>
 

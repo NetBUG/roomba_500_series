@@ -6,3 +6,5 @@ This assembly contains Roomba 400 interface from https://github.com/igor-nap/ros
 You may want to append them by copying and modifying CMakeLists.txt in the end.
 
 Warning: this project depends on [cereal_port](https://github.com/NetBUG/cereal_port) which is by default not supported in Catkin.
+
+P.S. Do not forget to add current user to _dialout_ group to allow access to ttyUSB device!
